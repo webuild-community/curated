@@ -53,3 +53,4 @@ https://github.com/tutv/tutv|tutv
 https://github.com/thanhphu/awesome-vietnamese|thanhphu
 https://github.com/dwarvesf/micro-sniff|dwarvesf
 https://github.com/tuhuynh27/reactif|tuhuynh27
+https://github.com/posttext-project/posttext|clitetailor
